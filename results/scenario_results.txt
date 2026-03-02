@@ -1,0 +1,55 @@
+
+===================================
+S0_baseline
+Weights: [0.28, 0.15, 0.22, 0.2, 0.15]
+Ranking (lower RScore = better):
+Rank 1: 1 - ASCON-128a | RScore = 0.175368
+Rank 2: 2 - AES-128-GCM | RScore = 0.320305
+Rank 3: 6 - XTEA-128 | RScore = 0.355319
+Rank 4: 5 - TEA-128 | RScore = 0.475361
+Rank 5: 3 - AES-192 | RScore = 0.477610
+Rank 6: 4 - AES-256 | RScore = 0.572923
+
+===================================
+S1_security_first
+Weights: [0.45, 0.25, 0.1, 0.15, 0.05]
+Ranking (lower RScore = better):
+Rank 1: 1 - ASCON-128a | RScore = 0.140155
+Rank 2: 2 - AES-128-GCM | RScore = 0.207320
+Rank 3: 3 - AES-192 | RScore = 0.319041
+Rank 4: 4 - AES-256 | RScore = 0.379602
+Rank 5: 6 - XTEA-128 | RScore = 0.447425
+Rank 6: 5 - TEA-128 | RScore = 0.603189
+
+===================================
+S2_constrained_first
+Weights: [0.05, 0.05, 0.4, 0.25, 0.25]
+Ranking (lower RScore = better):
+Rank 1: 1 - ASCON-128a | RScore = 0.210885
+Rank 2: 6 - XTEA-128 | RScore = 0.214028
+Rank 3: 5 - TEA-128 | RScore = 0.268571
+Rank 4: 2 - AES-128-GCM | RScore = 0.419559
+Rank 5: 3 - AES-192 | RScore = 0.616797
+Rank 6: 4 - AES-256 | RScore = 0.743584
+
+===================================
+S3_deployment_first
+Weights: [0.3, 0.35, 0.1, 0.15, 0.1]
+Ranking (lower RScore = better):
+Rank 1: 1 - ASCON-128a | RScore = 0.148058
+Rank 2: 2 - AES-128-GCM | RScore = 0.243218
+Rank 3: 3 - AES-192 | RScore = 0.369016
+Rank 4: 4 - AES-256 | RScore = 0.439244
+Rank 5: 6 - XTEA-128 | RScore = 0.477070
+Rank 6: 5 - TEA-128 | RScore = 0.622194
+
+===================================
+S4_equal_weights
+Weights: [0.2, 0.2, 0.2, 0.2, 0.2]
+Ranking (lower RScore = better):
+Rank 1: 1 - ASCON-128a | RScore = 0.182309
+Rank 2: 2 - AES-128-GCM | RScore = 0.341129
+Rank 3: 6 - XTEA-128 | RScore = 0.372634
+Rank 4: 5 - TEA-128 | RScore = 0.484146
+Rank 5: 3 - AES-192 | RScore = 0.506569
+Rank 6: 4 - AES-256 | RScore = 0.606014
