@@ -139,7 +139,7 @@ Software citation (Zenodo DOI to be added after release):
 
 Khan, S., Martins, P., Pereira, V., Sousa, B. (2026).
 METHODICAL: Multi-Criteria Ranking Framework for Lightweight Encryption in IoT (Version 1.0).
-Zenodo. DOI: xx.xxxx/zenodo.xxxxxxx
+Zenodo.(https://doi.org/10.5281/zenodo.18836924)
 8. License
 
 This project is licensed under the MIT License.
