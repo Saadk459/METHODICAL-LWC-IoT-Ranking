@@ -22,7 +22,7 @@ CITATION.cff
 LICENSE
 README.md
 
-3. Installation
+4. Installation
 This project requires Python 3.8+.
 Step 1 — Clone the repository
 git clone (https://github.com/Saadk459/METHODICAL-LWC-IoT-Ranking)
