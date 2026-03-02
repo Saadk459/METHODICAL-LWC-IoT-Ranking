@@ -14,12 +14,9 @@ The implementation is a Python translation of the original R-based METHODICAL mo
 
 2. Repository Structure
 METHODICAL-LWC-IoT-Ranking/
-├── src/
-│   └── methodical.py
-├── data/
-│   └── iiot_methodical_matrix_table7.csv
-├── results/
-│   └── scenario_results.txt
+├── src/methodical.py
+├── data/iiot_methodical_matrix_table7.csv
+├── results/scenario_results.txt
 ├── requirements.txt
 ├── CITATION.cff
 ├── LICENSE
