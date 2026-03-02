@@ -14,20 +14,31 @@ The implementation is a Python translation of the original R-based METHODICAL mo
 
 2. Repository Structure
 METHODICAL-LWC-IoT-Ranking/
+
 src/methodical.py
+
 data/iiot_methodical_matrix_table7.csv
+
 results/scenario_results.txt
+
 requirements.txt
+
 CITATION.cff
+
 LICENSE
+
 README.md
 
 4. Installation
 This project requires Python 3.8+.
+
 Step 1 — Clone the repository
 git clone (https://github.com/Saadk459/METHODICAL-LWC-IoT-Ranking)
+
 cd METHODICAL-LWC-IoT-Ranking
+
 Step 2 — Install dependencies
+
 pip install -r requirements.txt
 
 Required libraries:
