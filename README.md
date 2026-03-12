@@ -1,4 +1,4 @@
-# METHODICAL-LWC-IoT-Ranking
+# LIGHT-SELECT Methodology
 LIGHT-SELECT: A Multi-Criteria Methodology for Selecting Lightweight Symmetric
 Encryption in Resource-Constrained IoT Devices
 1. Overview
