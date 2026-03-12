@@ -1,7 +1,9 @@
 # METHODICAL-LWC-IoT-Ranking
-METHODICAL: Multi-Criteria Ranking Framework for Lightweight Symmetric Encryption in IoT
+LIGHT-SELECT: A Multi-Criteria Methodology for Selecting Lightweight Symmetric
+Encryption in Resource-Constrained IoT Devices
 1. Overview
-This repository provides the reproducible Python implementation of the multi-criteria ranking methodology proposed in the paper: “**Symmetric Encryption for Secure Resource-Constrained Devices**”
+This repository provides the reproducible Python implementation of the multi-criteria ranking methodology proposed in the paper: “**LIGHT-SELECT: A Multi-Criteria Methodology for Selecting Lightweight Symmetric
+Encryption in Resource-Constrained IoT Devices**”
 
 The Methodology evaluates and ranks lightweight symmetric encryption algorithms across heterogeneous IoT devices using a structured decision-making approach based on:
 
@@ -93,7 +95,7 @@ S1_security_first
 
 S2_constrained_first
 
-S3_deployment_first
+S3_Standardization_driven_first
 
 S4_equal_weights
 
@@ -129,16 +131,18 @@ The methodology supports benefit and cost criteria simultaneously and enables fl
 
 7. Citation
 
-If you use this framework in academic work, please cite:
+If you use this methodology in academic work, please cite:
 
 Saad Khan, Pedro Martins, Vasco Pereira, Bruno Sousa.
-"Symmetric Encryption for Secure Resource-Constrained Devices."
+"SLIGHT-SELECT: A Multi-Criteria Methodology for Selecting Lightweight Symmetric
+Encryption in Resource-Constrained IoT Devices"
 (Submitted to Computers & Security, Elsevier, 2026).
 
 Software citation (Zenodo DOI to be added after release):
 
-Khan, S., Martins, P., Pereira, V., Sousa, B. (2026).
-METHODICAL: Multi-Criteria Ranking Framework for Lightweight Encryption in IoT (Version 1.0).
+Khan, S., Sousa, B.,  Pereira, V. (2026).
+LIGHT-SELECT: A Multi-Criteria Methodology for Selecting Lightweight Symmetric
+Encryption in Resource-Constrained IoT Devices (Version 1.0).
 Zenodo.(https://doi.org/10.5281/zenodo.18836924)
 8. License
 
