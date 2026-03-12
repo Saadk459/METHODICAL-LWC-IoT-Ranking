@@ -33,7 +33,7 @@ Rank 5: 3 - AES-192 | RScore = 0.616797
 Rank 6: 4 - AES-256 | RScore = 0.743584
 
 ===================================
-S3_deployment_first
+S3_Standardization_driven_first
 Weights: [0.3, 0.35, 0.1, 0.15, 0.1]
 Ranking (lower RScore = better):
 Rank 1: 1 - ASCON-128a | RScore = 0.148058
